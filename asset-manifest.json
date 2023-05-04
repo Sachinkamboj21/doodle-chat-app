@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/doodle-chat-app/static/css/main.c56afde4.css",
-    "main.js": "/doodle-chat-app/static/js/main.88d828c9.js",
+    "main.js": "/doodle-chat-app/static/js/main.5e5c980a.js",
     "static/media/whatsapp backgroung.png": "/doodle-chat-app/static/media/whatsapp backgroung.bded4f44087fb4e89252.png",
     "index.html": "/doodle-chat-app/index.html",
     "main.c56afde4.css.map": "/doodle-chat-app/static/css/main.c56afde4.css.map",
-    "main.88d828c9.js.map": "/doodle-chat-app/static/js/main.88d828c9.js.map"
+    "main.5e5c980a.js.map": "/doodle-chat-app/static/js/main.5e5c980a.js.map"
   },
   "entrypoints": [
     "static/css/main.c56afde4.css",
-    "static/js/main.88d828c9.js"
+    "static/js/main.5e5c980a.js"
   ]
 }
